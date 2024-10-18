@@ -1,4 +1,4 @@
-- 👋 Hi, I’m amao
+- 👋 Hi, I’m BOLA_TITO
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on project and interim jobs
